@@ -137,6 +137,10 @@ line-height: 7.2rem;
     font-size: 1.8rem;
     font-weight: 700;
 }
+.resumo button:hover {
+    background: var(--resultado-bg);
+    cursor: pointer;
+}
 
 @media (min-width: 736px) {
     body {
